@@ -6,8 +6,15 @@ Categorized by topic.
 
 ## Programming Languages and Software Engineering
 
+* [Church Encoding and the Lambda Calculus](./church-encoding-509.pdf)
+* [SERG: API Workarounds](./api-workaround-serg.pdf)
+
 ## Program Verification
 
-## Information Visualization 
+* [Automatic Predicate Inlining for Viper](./viper-inlining-513.pdf)
+
+## Information Visualization
+
+* [Visualizing Mobility and COVID-19](./covid-vis-547.pdf)
 
 ## Other
