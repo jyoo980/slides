@@ -17,4 +17,9 @@ Categorized by topic.
 
 * [Visualizing Mobility and COVID-19](./covid-vis-547.pdf)
 
+
+## Systems
+
+* [Using Provenance to Improve Debugging Support for Data Scientists](./prov-slides-508.pdf)
+
 ## Other
