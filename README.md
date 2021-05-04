@@ -8,6 +8,7 @@ Categorized by topic.
 
 * [Church Encoding and the Lambda Calculus](./church-encoding-509.pdf)
 * [SERG: API Workarounds](./api-workaround-serg.pdf)
+* [SERG: Aspect-Oriented Programming](./aspect-oriented-programming.pdf)
 
 ## Program Verification
 
