@@ -24,3 +24,6 @@ Categorized by topic.
 * [Using Provenance to Improve Debugging Support for Data Scientists](./prov-slides-508.pdf)
 
 ## Other
+
+* [UDLS: Never Gonna Give You Up](./rick-astley.pdf)
+* [UDLS: How (not) to Apply to Grad School and Survive your First Year](./grad-school.pdf)
