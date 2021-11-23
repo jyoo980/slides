@@ -19,7 +19,6 @@ Categorized by topic.
 
 * [Visualizing Mobility and COVID-19](./covid-vis-547.pdf)
 
-
 ## Systems
 
 * [Using Provenance to Improve Debugging Support for Data Scientists](./prov-slides-508.pdf)
@@ -28,3 +27,5 @@ Categorized by topic.
 
 * [UDLS: Never Gonna Give You Up](./rick-astley.pdf)
 * [UDLS: How (not) to Apply to Grad School and Survive your First Year](./grad-school.pdf)
+* [UDLS: Kimchi](./kimchi.pdf)
+
